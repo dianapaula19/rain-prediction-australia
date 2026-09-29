@@ -2,7 +2,8 @@
 
 > **Original version:** this README and some fixes were added in 2026. To see the project exactly as it was first built, browse commit [`a1bb746`](https://github.com/dianapaula19/rain-prediction-australia/tree/a1bb746c291d0ca17c4e38c90850251409af7dc1) (2021-10-03).
 
-Will it rain tomorrow? Term project for *CEN 416 Data Mining* at Maltepe University (2021), by
+Will it rain tomorrow? Term project for the *Data Mining* course at Maltepe University (Istanbul),
+done during an Erasmus exchange in 2021, by
 Sabahattin Emirhan Sönmez and Paula-Diana Băcîrcea. We compare seven classifiers on the
 [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) dataset:
 about 145,000 days of weather observations from 49 Australian stations.
